@@ -1,0 +1,9 @@
+{
+	"name": "krishnarepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3a0349b-998e-4f04-8bbe-f0c839ad334e",
+		"tenantId": "2cf65902-6eb2-44e9-abe5-797f78d41884"
+	}
+}
