@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "krishnarepo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
