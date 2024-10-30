@@ -1,0 +1,9 @@
+{
+	"name": "shdatafactry",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f44c5309-f4d1-4bbc-8d7a-c4b4ddb7781d",
+		"tenantId": "2cf65902-6eb2-44e9-abe5-797f78d41884"
+	}
+}
