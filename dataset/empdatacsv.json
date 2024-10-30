@@ -1,0 +1,24 @@
+{
+	"name": "empdatacsv",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "shlinkedsrvices",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "voter.txt",
+				"folderPath": "shfile",
+				"container": "shcontainer"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
